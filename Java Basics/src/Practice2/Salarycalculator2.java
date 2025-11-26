@@ -18,6 +18,5 @@ public class Salarycalculator2 {
         double pay=wage*hours;
         System.out.printf("Employee: %s\n TotalSalary %2f\n",name,pay);
 
-
     }
 }
